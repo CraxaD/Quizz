@@ -83,6 +83,7 @@ else
 	cout << endl;
 	
 }
+system("pause");
 return 0;}
 
 void Pytanie::set_Values(string p, string O1, string O2, string O3, int Po, int Pkt)
